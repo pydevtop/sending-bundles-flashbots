@@ -118,3 +118,16 @@ Transaction 0xa34e58b5fd9207a6ff7d40fd2d8af61f1b74dc35b9ff212fee6cb02aac96e5a0 i
 ## Contacts
 Telegram:  @morgan_sql<br>
 Telegram channel: https://t.me/pydevtop
+
+## License and Usage Notice
+
+This project is licensed under the MIT License.
+
+⚠️ However, unauthorized copying, redistribution, publication, or forking of this repository in a way that falsely attributes authorship or contributor status is strictly prohibited.
+
+The author (PyDev) does not consent to being listed as a contributor in unauthorized forks or copies of this repository.
+
+If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
+
+Author: PyDev
+

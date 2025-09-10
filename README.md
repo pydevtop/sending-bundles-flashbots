@@ -119,6 +119,20 @@ Transaction 0xa34e58b5fd9207a6ff7d40fd2d8af61f1b74dc35b9ff212fee6cb02aac96e5a0 i
 Telegram:  @morgan_sql<br>
 Telegram channel: https://t.me/pydevtop
 
+
+## 💖 Support the Project
+
+If you find this project useful and would like to support future development, you can donate via crypto:
+
+| Coin | Address | QR Code |
+|------|----------|---------|
+| **BTC** | `bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un) |
+| **ETH / USDT (ERC20)** | `0x8a0024f04132fa46e57617c78e0395d4a7fd3244` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8a0024f04132fa46e57617c78e0395d4a7fd3244) |
+| **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
+
+Every contribution is greatly appreciated 🙏
+
+
 ## License and Usage Notice
 
 This project is licensed under the MIT License.

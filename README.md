@@ -118,7 +118,17 @@ Transaction 0xa34e58b5fd9207a6ff7d40fd2d8af61f1b74dc35b9ff212fee6cb02aac96e5a0 i
 ## Contacts
 Telegram:  @morgan_sql<br>
 
+******************************************************************************
+####  Similar developments:
+******************************************************************************
+P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 
+### Related Binance P2P Automation Tool
+
+**Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
+
+https://github.com/pydevtop/p2p-binance-telegram-bot
+******************************************************************************
 
 ## 💖 Support the Project
 

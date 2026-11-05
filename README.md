@@ -1,7 +1,6 @@
 # Flashbots Transaction Sender
 Sending flashbot bundles to python
 
-<p align="center"><img width="1024" src="https://py-dev.top/images/sending_bundles_flashbots/sending-bundles-flashbots.webp"></p>
 
 This repository provides a Python script for sending transactions via Flashbots to bypass the public mempool and avoid frontrunning. The script utilizes Web3.py and the Flashbots API to submit bundles directly to miners
 
